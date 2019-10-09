@@ -80,6 +80,12 @@ ul.withArrow{
 ul.withArrow li{
 	
 }
+
+.topbar p a .fa {
+	padding-left: 10px !important;
+	font-size: 1em !important;
+}
+
 ul.withArrow li span{
 	
 margin-right: 10px;
@@ -1628,6 +1634,7 @@ background-color: rgba(221, 221, 221, 0);
 	.navbar-header {
 		/* margin-top: 20px; */
 		border-bottom: none;
+		margin-top: 20px;
 	}
 	
 	.navbar-nav {
