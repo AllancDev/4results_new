@@ -1,10 +1,10 @@
 <?php 
+    require "./contact/Conn.class.php";
 
-    $arr = [
-        'title' => "Noticia",
-        'notice' => "Lorem Ipsum",
-        'datetime' => date('d/m/Y')
-    ];
+    $stmt = $Conn->query("SELECT * FROM tb_blog ORDER BY id ");
+    $user = $stmt->fetchAll();
+    echo json_encode($user);
+
+    
 
 
-    echo json_encode($arr);
