@@ -16,9 +16,11 @@
 	<meta name="author" content="Allan Cristian" />
 	<!-- css -->
 	<link href="css/bootstrap.min.css" rel="stylesheet" />
+	<link rel="stylesheet" href="./fonts/css/all.min.css">
 	<link href="css/fancybox/jquery.fancybox.css" rel="stylesheet">
 	<link href="css/flexslider.css" rel="stylesheet" />
 	<link href="css/style.css" rel="stylesheet" />
+	<link href="css/home.css" rel="stylesheet" />
 
 	<!-- HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
@@ -38,11 +40,10 @@
 								style="color:#fff;"></i><span><a href = "mailto: contato@4results.com.br" style = "color: #fff;">contato@4results.com.br</a> &nbsp;&nbsp; &nbsp;&nbsp;</span>
 							<i class="fa fa-phone" style="color:#fff;"></i><span>+55 41 3155-5850</span></p>
 						<p class="pull-right social-media" style="font-size: 1.5em;">
-							<a href="https://www.facebook.com/4Results-135526123279485" target = "blank"><i class="fa fa-facebook" style="color:#fff;"></i></a>
-							<a href="https://twitter.com/4results_" target = "blank"><i class="fa fa-twitter" style="color:#fff;"></i></a>
-							<a href="https://www.linkedin.com/company/4results-ltda-" target = "blank"><i class="fa fa-linkedin" style="color:#fff;"></i></a>
-							<a href="#"><i class="fa fa-whatsapp" aria-hidden="true" target = "blank"></i>
-							</a>
+							<a href="https://www.facebook.com/4Results-135526123279485" target = "blank"><i class="fab fa-facebook" style="color:#fff;"></i></a>
+							<a href="https://twitter.com/4results_" target = "blank"><i class="fab fa-twitter" style="color:#fff;"></i></a>
+							<a href="https://www.linkedin.com/company/4results-ltda-" target = "blank"><i class="fab fa-linkedin" style="color:#fff;"></i></a>
+							<a href="#" target = "blank"><i class="fab fa-whatsapp" style="color:#fff;"></i></a>
 						</p>
 					</div>
 				</div>
@@ -59,7 +60,7 @@
 							<span class="icon-bar"></span>
 							<span class="icon-bar"></span>
 						</button>
-						<a class="navbar-brand" href="quemsomos.php"><img src="img/logo.png" alt="logo" /></a>
+						<a class="navbar-brand" href="quemsomos.php"><img src="img/logo.png" class = "img-fluid" alt="logo" /></a>
 					</div>
 					<div class="navbar-collapse collapse ">
 						<ul class="nav navbar-nav">

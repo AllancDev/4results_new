@@ -1,5 +1,5 @@
 <div id="contact">
-	<a href = "contact.php" class="fale-conosco"><i class = "fa fa-phone-o"></i>  FALE CONOSCO</a>
+	<a href = "contact.php" class="fale-conosco"><i class="fas fa-phone-alt"></i>  FALE CONOSCO</a>
 </div>
 <style>
 	.fale-conosco {
@@ -84,11 +84,13 @@
 				</div>
 				<div class="col-lg-6">
 					<ul class="social-network">
-						<li><a href="https://www.facebook.com/4Results-135526123279485" target="blank" data-placement="top" title="Facebook"><i class="fa fa-facebook"></i></a>
+						<li><a href="https://www.facebook.com/4Results-135526123279485" target="blank" data-placement="top" title="Facebook"><i class="fab fa-facebook"></i></a>
 						</li>
-						<li><a href="https://twitter.com/4results_" target="blank" data-placement="top" title="Twitter"><i class="fa fa-twitter"></i></a>
+						<li><a href="https://twitter.com/4results_" target="blank" data-placement="top" title="Twitter"><i class="fab fa-twitter"></i></a>
 						</li>
-						<li><a href="https://www.linkedin.com/company/4results-ltda-" target="blank" data-placement="top" title="Linkedin"><i class="fa fa-linkedin"></i></a>
+						<li><a href="https://www.linkedin.com/company/4results-ltda-" target="blank" data-placement="top" title="Linkedin"><i class="fab fa-linkedin"></i></a>
+						</li>
+						<li><a href="#" target="blank" data-placement="top" title="whatsapp"><i class="fab fa-whatsapp"></i></a>
 						</li>
 					</ul>
 				</div>
